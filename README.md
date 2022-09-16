@@ -24,6 +24,7 @@
 <p align="center">
   <img src="./nlw-screens/inicial.jpg" />
 </p>
+
 ### Tela de Publicar um anuncio
 <p align="center">
   <img src="./nlw-screens/form.jpg" />

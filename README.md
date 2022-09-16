@@ -18,11 +18,13 @@
 - Vizualizar anúncios de games.
 - Selecionar um game e escolher um Duo para jogar através do usuário do discord.
 
-##WEB
+## WEB 
+
+### Tela de anúncios
 <p align="center">
   <img src="./nlw-screens/inicial.jpg" />
 </p>
-
+### Tela de Publicar um anuncio
 <p align="center">
   <img src="./nlw-screens/form.jpg" />
 </p>

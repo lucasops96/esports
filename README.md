@@ -1,6 +1,6 @@
 # esports
  NLW esports foi um evento de devs realizado pela [Rocketseat](https://www.rocketseat.com.br/), no qual, são 6 dias de bastante aprendizados sobre programação e como ser um profissional de qualidade para o mercado de tecnologia.
- Nesta edição, é criado um aplicação de Esports onde gamers podem encontrar um duo para jogar um game juntos, sendo que um usuário pode publicar pela a WEB um anúncio do gamer que quer jogar ou pelo app mobile procurar um duo para jogar.
+ Nesta edição, é criado um aplicação de Esports onde gamers podem encontrar um duo para jogar um game juntos, sendo que um usuário pode publicar pela a WEB um anúncio do game que quer jogar ou pelo app mobile procurar um duo para jogar.
 
 ## Tecnologias utilizadas no Back-end
 - Nodejs

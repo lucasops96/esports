@@ -1,8 +1,7 @@
 # Esports
  NLW esports foi um evento de devs realizado pela [Rocketseat](https://www.rocketseat.com.br/), no qual, são 6 dias de bastante aprendizados sobre programação e como ser um profissional de qualidade para o mercado de tecnologia.
  Nesta edição, é criado um aplicação de Esports onde gamers podem encontrar um duo para jogar um game juntos, sendo que um usuário pode publicar pela a WEB um anúncio do game que quer jogar ou pelo app mobile procurar um duo para jogar.
- 
-# NEVER STOP LEARNING
+ NEVER STOP LEARNING
 
 ## Tecnologias utilizadas no Back-end
 - Nodejs
@@ -36,8 +35,8 @@
 ## Mobile 
 
 ### Tela de anúncios
-<p align="center">
-  <img src="./nlw-screens/mobile-inicial.png" />
+<p align="center" width="393" height="851">
+  <img src="./nlw-screens/mobile-home.png" />
 </p>
 
 ### Tela de Duos

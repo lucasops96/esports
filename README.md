@@ -35,8 +35,8 @@
 ## Mobile 
 
 ### Tela de anúncios
-<p align="center" width="393" height="851">
-  <img src="./nlw-screens/mobile-home.png" />
+<p align="center">
+  <img src="./nlw-screens/mobile-home.png" width="393" height="851" />
 </p>
 
 ### Tela de Duos

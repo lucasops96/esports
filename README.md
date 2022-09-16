@@ -41,10 +41,10 @@
 
 ### Tela de Duos
 <p align="center">
-  <img src="./nlw-screens/mobile-game.png" />
+  <img src="./nlw-screens/mobile-game.png" width="393" height="851" />
 </p>
 
 ### Tela de Discord
 <p align="center">
-  <img src="./nlw-screens/mobile-play.png" />
+  <img src="./nlw-screens/mobile-play.png" width="393" height="851" />
 </p>

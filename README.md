@@ -8,15 +8,15 @@
 
 ## Front-end
 - React
-- React Native para
+- React Native
 
 ## Funcionalidades da WEB
 - Vizualizar anúncios de games.
-- Cadastrar um Duo para um determinado game.
+- Cadastrar Duo para determinado game.
 
 ## Funcionalidades do Mobile
 - Vizualizar anúncios de games.
-- Selecionar um game e escolher um Duo para jogar através do usuário do discord.
+- Selecionar game e escolher um Duo para jogar através do usuário do discord.
 
 ## WEB 
 

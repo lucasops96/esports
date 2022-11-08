@@ -5,7 +5,7 @@
 
 ## Tecnologias utilizadas no Back-end
 - Nodejs
-- Type Script
+- TypeScript
 - SQLite
 
 ## Tecnologias utilizadas no Front-end
